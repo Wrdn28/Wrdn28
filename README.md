@@ -41,6 +41,3 @@
 
 # 📱 Devices
 ![Xiaomi Redmi Note 8](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%208%20-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
-
-<h2 align="left">Support:</h2>
-<p><a href="https://ko-fi.com/hirokixd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="hirokixd" /></a></p>
