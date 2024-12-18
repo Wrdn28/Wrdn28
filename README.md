@@ -2,13 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hirokixd!;" />
 </h1>
 
-<h3 align="center">I'm Junior Software Engineer from Indonesia 🇮🇩</h3>
+<h3 align="center">I'm Software Engineer from Indonesia 🇮🇩</h3>
 
 ## ✨ About Me:
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
--  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I’m maintainer **Redmi Note 8 (Ginkgo)**. <br>
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+-  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I’m The Founder of **[OrionOS-Prjkt](https://github.com/OrionOS-prjkt)**. <br>
+- 👨‍💻 I'm Maintainer **Ginkgo**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - 💬 Ask me about **anything**
 - 📫 Find me on Telegram - [Hirokixd](https://t.me/Hirokixd28).
